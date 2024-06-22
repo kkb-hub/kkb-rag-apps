@@ -1,0 +1,112 @@
+{
+    "instrument_project": "780 NEI",
+    "data_sheet_spc_no": "780-FB-3090",
+    "date": "JUNE2023",
+    "sheet_number": "31 of 31",
+    "plant": "Chlorine Caustic Soda Plant",
+    "description": "Pneumatic control valve with positioner",
+    "tag": "LV-050850 2",
+    "service": "pure brine to tank D517",
+    "quantity": 1,
+    "location": "Line - 100-CW89-12139",
+    "p_id_no": "5-AM-1008.1/730",
+    "operating_condition": {
+        "units": {
+            "min_op": "Min. Op.",
+            "max_op": "Max. Des."
+        },
+        "fluid": "PURE BRINE",
+        "flow": {
+            "min": 75,
+            "max": 100,
+            "unit": "m3/h"
+        },
+        "up_stream_pressure": {
+            "min": 3,
+            "max": 3,
+            "unit": "bar g"
+        },
+        "down_stream_pressure": {
+            "min": 1,
+            "max": 1,
+            "unit": "bar g"
+        },
+        "differential_pressure_drop": {
+            "min": 2,
+            "max": 2,
+            "unit": "bar"
+        },
+        "shut_off_pressure": {
+            "min": 8,
+            "max": 8,
+            "unit": "bar g"
+        },
+        "temperature": {
+            "min": 85,
+            "max": 85,
+            "unit": "\u00b0C"
+        },
+        "density": {
+            "min": 1177,
+            "max": 1177,
+            "unit": "kg/m3"
+        },
+        "viscosity": {
+            "min": 0.89,
+            "max": 0.89,
+            "unit": "cPs"
+        },
+        "critical_pressure": {
+            "min": null,
+            "max": null,
+            "unit": "bar a"
+        },
+        "vapour_pressure": {
+            "min": null,
+            "max": null,
+            "unit": "bar a"
+        }
+    },
+    "required_cv": null,
+    "actual_cv": null,
+    "valve_type": "Plug v-port or globe",
+    "body_size": "std. mfr.",
+    "trim_size": "std. mfr.",
+    "connection_type_rating": "Flanged, DIN PN 10",
+    "body_material": "carbon steel PTFE lined",
+    "bonnet": "std. mfr.",
+    "packing_box": "PTFE",
+    "plug_type": "Std. Mfr.",
+    "trim_material": "std. mfr.",
+    "seat_desk_material": "std. mfr.",
+    "flow_characteristic": "Equal %",
+    "leakage": "VI (ANSI B16.104)",
+    "flow_direction": "Open",
+    "actuator_type": "std. mfr.",
+    "supply_failure": "Valve open",
+    "handwheel": "Not required",
+    "mechan_position_indic": "Required",
+    "accessories": {
+        "positioner": "Electropneumatic Smart / HART type",
+        "filter_regulator_supply": "Mounted on the valve / min.4.5 - max.7 .0 bar"
+    },
+    "input_signal": "4\u00f720 mA",
+    "solenoid_valve": "Not required",
+    "power_supply": null,
+    "body_trim_material": null,
+    "pneumatic_connection": "1/4\" NPT-F",
+    "electrical_connection": "1/2\" NPT-F",
+    "limit_switch": "Not required",
+    "type": null,
+    "remarks": [
+        "(1)(2)(3) three different operating flow"
+    ],
+    "issue_for_order": {
+        "drawn": "M.MEHD.",
+        "checked": "H.KAZEMI",
+        "date": "JUNE2023"
+    },
+    "revision": {
+        "description": "NIROU CHLOR COMPANY CONTROL VALVE"
+    }
+}
